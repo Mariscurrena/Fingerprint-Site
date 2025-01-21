@@ -1,0 +1,12 @@
+[1m[34mhttp://zero.webappsecurity.com/[0m [200 OK] [1mApache[0m
+ [1mBootstrap[0m
+ [1mContent-Language[0m[[0m[22men-US[0m]
+ [1mCountry[0m[[0m[22mUNITED STATES[0m][[1m[31mUS[0m]
+ [1mHTML5[0m
+ [1mHTTPServer[0m[[1m[36mApache-Coyote/1.1[0m]
+ [1mIP[0m[[0m[22m54.82.22.214[0m]
+ [1mJQuery[0m[[1m[32m1.8.2[0m]
+ [1mScript[0m[[0m[22mtext/javascript[0m]
+ [1mTitle[0m[[1m[33mZero - Personal Banking - Loans - Credit Cards[0m]
+ [1mUncommonHeaders[0m[[0m[22maccess-control-allow-origin[0m]
+ [1mX-UA-Compatible[0m[[0m[22mIE=Edge[0m]
